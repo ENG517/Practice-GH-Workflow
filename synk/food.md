@@ -9,7 +9,15 @@ I would like to eat a burrito.
 I am going to *chipotle* after this class.
 
 
-paragraph here. paragraph here. paragraph here. paragraph here.
+paragraph here. 
+
+paragraph here. 
+
+paragraph here. 
+
+paragraph here.
+
+
 - list here
 - list here
 - list here
